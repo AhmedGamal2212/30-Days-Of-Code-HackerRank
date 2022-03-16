@@ -27,7 +27,6 @@ public class Solution {
         }else if(n > 20){
             System.out.println("Not Weird");
         }
-        
         bufferedReader.close();
     }
 }

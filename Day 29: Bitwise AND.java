@@ -30,7 +30,6 @@ class Result {
                     max = j & i;
             }
         }
-        
         return max;
     }
 
